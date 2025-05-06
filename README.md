@@ -18,3 +18,6 @@ circRNA disease: a manually curated database of experimentally supported circRNA
 CircR2Disease: a manually curated database for experimentally supported circular RNAs associated with various diseases DOI: 10.1093/database/bay044
 
 LncRNADisease: a database for long-non-coding RNA-associated diseases DOI: 10.1093/nar/gks1099
+
+HMDDv2.0 HMDDv3.2:
+Predicting miRNA-disease associations based on multi-view variational graph auto-encoder with matrix factorization DOI: 10.1109/JBHI.2021.3088342
